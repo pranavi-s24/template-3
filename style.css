@@ -1,0 +1,52 @@
+.img1_top {
+    background-image: url("top_img.jpg");
+    background-size: cover;
+}
+.mini_profile {
+    background-color: rgba(8, 6, 6, 0.527);
+}
+.play_fair {
+    font-family: PlayfairDisplay;
+}
+.red-bgg {
+    background-color: rgb(150, 101, 84);
+}
+.green_bgg {
+    background-color: chartreuse;
+}
+.text-greenn {
+    color: chartreuse;
+}
+.sand_bgg {
+    background-color: rgb(197, 106, 31);
+}
+.text-sand {
+    color: rgb(197, 106, 31);
+}
+.blk_bgg {
+    background-color: rgb(34, 32, 32);
+}
+.text-blk {
+    color: rgb(34, 32, 32);
+}
+.bottom-img {
+    background-image: url("bottom_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.form-style-own input {
+    width: 65%;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(39, 37, 37);
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+.form-style-own input:focus {
+    box-shadow: none;
+    outline: none;
+    border-bottom: 1px solid rgb(39, 37, 37);
+}
+.bg-light {
+    opacity: 0.8;
+}
